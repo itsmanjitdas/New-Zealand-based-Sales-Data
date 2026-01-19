@@ -1,0 +1,1 @@
+This project focuses on analyzing sales performance across different regions of New Zealand using data visualization and analytics techniques. The dashboard provides actionable insights into revenue trends, customer behavior, and regional performance, helping businesses make informed strategic decisions.
